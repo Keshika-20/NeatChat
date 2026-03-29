@@ -1,0 +1,24 @@
+{
+  "name": "neatchat-plus-plus",
+  "version": "1.0.0",
+  "description": "AI-Powered Real-Time Chat Platform with Optimized Data Structures",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1",
+    "bcryptjs": "^2.4.3",
+    "uuid": "^9.0.0",
+    "cors": "^2.8.5",
+    "express-session": "^1.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["chat", "real-time", "socket.io", "AI", "data-structures"],
+  "author": "NeatChat++ Team",
+  "license": "MIT"
+}
