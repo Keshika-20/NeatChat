@@ -68,7 +68,9 @@ node src/server.js
 5. Open browser:
 
 ```
-http://localhost:3000
+http://localhost:3000(local development)
+
+🌐 Live Demo: Coming Soon
 ```
 
 ---
