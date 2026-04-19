@@ -8,6 +8,7 @@
 :root {
   --bg-primary: #0d0f14;
   --bg-secondary: #141720;
+   /* background color */
   --bg-tertiary: #1a1e2a;
   --bg-hover: #1f2435;
   --bg-active: #242840;
