@@ -5,7 +5,7 @@ A real-time chat application built using Node.js and Socket.io, with a focus on 
 ---
 
 ## 🚀 Features
-
+* Good project
 * 🔹 Real-time messaging between users
 * 🔹 Chat history storage
 * 🔹 Basic user authentication (login/signup)
