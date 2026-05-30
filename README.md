@@ -2,7 +2,6 @@
 
 A real-time chat application built using Node.js and Socket.io, with a focus on efficient message handling and scalable design using core data structures.
 
----
 
 ## 🚀 Features
 
